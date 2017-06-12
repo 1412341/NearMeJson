@@ -1,10 +1,9 @@
 [	{
 		"name":"Petrolimex Petrol Store No.41",
-		"lat":0.7593264,
-		"lon":106.6657607,
-		 	"image":"https://lh4.googleusercontent.com/-yHJhARbY-zs/WKFXQs33dNI/AAAAAAAAAv8/sU9J0rSmbWYlhhrtHb2ud7oUPgAIysltwCLIB/w408-h408-k-no/",
-	 	"address":"
-326, Tran Phu Street, Ward 8, District 5, ph??ng 3, Qu?n 5, H? ChÌ Minh, Vietnam",
+		"lat": 10.7593264,
+		"lon": 106.6657607,
+		"image":"https://lh4.googleusercontent.com/-yHJhARbY-zs/WKFXQs33dNI/AAAAAAAAAv8/sU9J0rSmbWYlhhrtHb2ud7oUPgAIysltwCLIB/w408-h408-k-no/",
+	 	"address":"326, Tran Phu Street, Ward 8, District 5, ph??ng 3, Qu?n 5, H? Ch√≠ Minh, Vietnam",
 		"phone": ""
 	},
 	{
@@ -12,7 +11,7 @@
 		"lat":10.7593264,
 		"lon":106.6657607,
 		"image":"https://lh4.googleusercontent.com/-hKgxcR4pKDc/V5HlwVIoRHI/AAAAAAAAMd0/qcEGwXZfjzs2FzsNWKU073pf722ul4YjwCLIB/w408-h306-k-no/",
-		"address": "99, Nguyen Van Cu Street, Ward 3, District 5, ph??ng 3, Qu?n 5, H? ChÌ Minh, Vietnam",
+		"address": "99, Nguyen Van Cu Street, Ward 3, District 5, ph??ng 3, Qu?n 5, H? Ch√≠ Minh, Vietnam",
 		"phone": ""
 	},
 	{
@@ -28,23 +27,23 @@
 		"lat":10.7593264,
 		"lon":106.6657607,
 		"image":"https://lh3.googleusercontent.com/-3bWK2hpIHsU/WLPGZg_UqEI/AAAAAAAAAB8/xpCxSQUEY5E6bhMs3mW4dqq70MP_i29SQCLIB/w408-h229-k-no/",
-		"address": "S? 500 Nguy?n ?Ïnh Chi?u , ph??ng 4, qu?n 3, th‡nh ph? H? ChÌ Minh, ph??ng 4, H? ChÌ Minh, Vietnam",
+		"address": "S? 500 Nguy?n ?√¨nh Chi?u , ph??ng 4, qu?n 3, th√†nh ph? H? Ch√≠ Minh, ph??ng 4, H? Ch√≠ Minh, Vietnam",
 		"phone": ""
 	},
 	{
-		"name":"Petrolimex Saigon. C?a h‡ng X?ng d?u S? 40",
+		"name":"Petrolimex Saigon. C?a h√†ng X?ng d?u S? 40",
 		"lat":10.7593264,
 		"lon":106.6657607,
 		"image":"https://lh5.googleusercontent.com/-D3rFPirkz6w/WE1tuh0eEhI/AAAAAAAAAUI/-OMeIQ-HLjIegmtWwvQenwE-fF-7pO2WgCLIB/w418-h200-k-no/",
-		"address": "1 Ph?m Ng? L„o, Nguy?n C? Trinh, Qu?n 1, H? ChÌ Minh, Vietnam",
+		"address": "1 Ph?m Ng? L√£o, Nguy?n C? Trinh, Qu?n 1, H? Ch√≠ Minh, Vietnam",
 		"phone": "+84 8 3822 4127"
 	},
 	{
-		"name":"C?a H‡ng X?ng D?u Petrolimex S? 3",
+		"name":"C?a H√†ng X?ng D?u Petrolimex S? 3",
 		"lat":10.7593264,
 		"lon":106.6657607,
 		"image":"https://lh6.googleusercontent.com/-tAzMc237xaw/WE1t53oI0MI/AAAAAAAAAUI/B81PObusZQwQZ6ADBfOm-j2fst54F94cACLIB/w418-h200-k-no/",
-		"address": "102, ???ng Ph?m H?ng Th·i, Ph??ng B?n Th‡nh, Qu?n 1, B?n Th‡nh, Qu?n 1, H? ChÌ Minh, Vietnam",
+		"address": "102, ???ng Ph?m H?ng Th√°i, Ph??ng B?n Th√†nh, Qu?n 1, B?n Th√†nh, Qu?n 1, H? Ch√≠ Minh, Vietnam",
 		"phone": "+84 8 3829 8316"
 	}
 ]
