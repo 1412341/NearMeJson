@@ -1,23 +1,23 @@
 [	{
 		"name":"Trường tiểu học Âu Cơ",
-		"lat":12.2421312,
-		"lon":109.1865912,
+		"lat":10.7593264,
+		"lon":106.6657607,
 		"image":"https://raw.githubusercontent.com/1412341/attractionJson/master/2016-10-05.jpg",
 	 	"address":"122 Nguyễn Trãi, Phường Phước Tân, TP Nha Trang",
 		"phone": "+84 58 3875 007"
 	},
 	{
 		"name":"Chợ Xóm Mới",
-		"lat":12.2419493,
-		"lon":109.1866474,
+		"lat":10.7593264,
+		"lon":106.6657607,
 		"image":"https://lh5.googleusercontent.com/-F0dH5w7JBUY/WF0oA4iu3kI/AAAAAAAACjg/rFCMtGWaMqcT6hBvvDmeDOY-01aRy66QgCLIB/w408-h305-k-no/",
 		"address": "49 Ngô Gia Tự, Phường Tân Lập, TP Nha Trang",
 		"phone": "+84 58 3515 364"
 	},
 	{
 		"name":"Nhà thờ Kitô Vua",
-		"lat":12.2445939,
-		"lon":109.1866474,
+		"lat":10.7593264,
+		"lon":106.6657607,
 		"image": "https://lh6.googleusercontent.com/proxy/YrqgmZ9WuZMxYxIl9gvRiRLhz4-WyibrgF6I1nHSSGiMzFnypr4kSMBgQaOxwvtNhrpgff8j3nL7aRApTQnHEp2ksdxo1g=w408-h272-k-no",
 		"address": "31 Thái Nguyên, Phường Phước Tân, TP Nha Trang",
 		"phone": "+84 58 3823335"
